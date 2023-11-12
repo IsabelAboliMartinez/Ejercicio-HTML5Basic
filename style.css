@@ -20,13 +20,14 @@ ol{
     list-style-position:inside;  
 }
 
+dt, dd {
+    display: inline-block;
+    margin-left: auto; 
+}
+
 ul {
     list-style-position: inside;
     text-align: center;
 }
 
-dt, dd {
-    display: inline-block;
-    margin-left: auto;
-    
-}
+
