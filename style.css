@@ -1,0 +1,32 @@
+body{
+    height: 100%;
+    width: auto;
+    margin: 2%;
+}
+
+.tabulacion {
+    margin-left: 1%;
+}
+
+
+
+.lista {
+    display: flex;
+    justify-content: center;
+}
+
+ol{
+    text-align: center;
+    list-style-position:inside;  
+}
+
+ul {
+    list-style-position: inside;
+    text-align: center;
+}
+
+dt, dd {
+    display: inline-block;
+    margin-left: auto;
+    
+}
