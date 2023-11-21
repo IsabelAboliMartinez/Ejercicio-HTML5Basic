@@ -8,26 +8,14 @@ body{
     margin-left: 1%;
 }
 
-
-
-.lista {
+.listas {
     display: flex;
-    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    
 }
 
-ol{
-    text-align: center;
-    list-style-position:inside;  
-}
 
-dt, dd {
-    display: inline-block;
-    margin-left: auto; 
-}
 
-ul {
-    list-style-position: inside;
-    text-align: center;
-}
 
 
